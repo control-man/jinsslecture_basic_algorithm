@@ -20,7 +20,7 @@ public class Main {
 			small = num1;
 		}
 		
-		int gcd = 1; //최대공약수
+		int gcd = 1; //
 		
 		for (int i = 1 ; i <= small  ; i++) {
 			if (big % i == 0 && small % i == 0) 
